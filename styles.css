@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #e1eaf0; /* Updated background color */
+    text-align: justify;
+}
+
+h1, h2 {
+    color: #003057; /* Updated heading and title color */
+}
+
+p {
+    color: #333; /* Default text color */
+}
+
+ul, ol {
+    color: #555; /* List text color */
+}
