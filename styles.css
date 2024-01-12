@@ -17,3 +17,7 @@ p {
 ul, ol {
     color: #555; /* List text color */
 }
+#wrapper{
+    max-width: 700px; width: 100%;
+    padding: 50px; 
+}
