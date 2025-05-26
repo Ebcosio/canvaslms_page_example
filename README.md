@@ -1,1 +1,1 @@
-Just an example to show how a repository can be created, hosted on GitHub Pages, then embedded into the Canvas LMS. 
+This repository will serve as a GitHub Pages website used for an elearning portfolio.  It will showcase various learning objects to demonstrate web accessibility principles, learning objects based on SCORM, or learning objects based on other web development projects.
