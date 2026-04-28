@@ -1,0 +1,62 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "6fylU6JmSZ1",
+  "title": "2_flashcards",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qdxYptzx9L",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6jUbjkvP1Mn",
+      "title": "Social Media",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6YHOrdoMmBt",
+      "title": "magazines",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5glWMVcLaRK",
+      "title": "blogs",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5lVaMTuHumg",
+      "title": "news",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5oChJFEhL6h",
+      "title": "journals",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5i7taXjbDXi",
+      "title": "Books or eBooks",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6mMHwnaiBEO",
+      "title": "Gray Literature",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
