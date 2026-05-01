@@ -1,0 +1,97 @@
+{
+  "version": "3.102.35072.0",
+  "course_id": "69ozrcomFlB",
+  "title": "maui_timeline",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    },
+    {
+      "title": "social media"
+    },
+    {
+      "title": "news"
+    },
+    {
+      "title": "Journals"
+    },
+    {
+      "title": "magazines"
+    },
+    {
+      "title": "Blogs"
+    }
+  ],
+  "slides": [
+    {
+      "id": "63Cj4tCD1l3",
+      "title": "Information Timeline",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6YlSX2UUDYj",
+      "title": "Books Lightbox",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6TVcTxmAg4Y",
+      "title": "Social Media Lightbox Slide",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6jXEnYWPhQQ",
+      "title": "Social Media Example 2",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6d2xvh1qaoh",
+      "title": "News Lightbox Slide",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6pp8t599Uun",
+      "title": "News Example 2",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "61Vy1SsLhG6",
+      "title": "Journal Articles Lightbox",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5yXSewTmpvU",
+      "title": "Journal Examle 2",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6FFBt6mnlub",
+      "title": "Magazines LightBox",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6fj9zCV2Fb2",
+      "title": "Magazines Example 2",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5Z5Z9lxBXgV",
+      "title": "Blogs Lightbox",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "67wxX5n3ZN2",
+      "title": "Blogs Example 2",
+      "scene_index": "6.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
